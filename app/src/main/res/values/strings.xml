@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Auto Detekcija</string>
+    <string name="auto_asistencija">Auto asistencija  </string>
+    <string name="detekcija_kvara">Detekcija kvara</string>
+    <string name="provjeri_sam">Provjeri sam</string>
+    <string name="pronadi_servis">Pronađi servis</string>
+    <string name="akcije">Akcije</string>
 </resources>
