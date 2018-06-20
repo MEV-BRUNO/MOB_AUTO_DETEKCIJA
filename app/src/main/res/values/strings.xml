@@ -5,4 +5,5 @@
     <string name="provjeri_sam">Provjeri sam</string>
     <string name="pronadi_servis">Pronađi servis</string>
     <string name="akcije">Akcije</string>
+    <string name="detekcija_kvara_text">Molimo označite ikone prema signalizaciji na kontrolnoj ploči vašeg automobila.\nDodatno možete označiti i opisni kvar.</string>
 </resources>

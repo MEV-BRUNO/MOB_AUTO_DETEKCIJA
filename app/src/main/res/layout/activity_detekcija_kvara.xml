@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".detekcijaKvaraActivity">
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/detekcija_kvara"
+            android:textColor="@color/colorPrimary"
+            android:textSize="30sp" />
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/detekcija_kvara_text"
+            android:textSize="20sp"
+            android:paddingTop="10dp"/>
+
+    </TableRow>
+
+    <TableRow>
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:columnCount="5">
+                <ToggleButton
+                    android:id="@+id/toggle"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:background="@drawable/i_1"
+                    android:textOff=""
+                    android:textOn=""/>
+                <ImageButton
+                    android:src="@mipmap/u_2"/>
+                <ImageButton
+                    android:src="@mipmap/u_3"/>
+                <ImageButton
+                    android:src="@mipmap/u_4"/>
+                <ImageButton
+                    android:src="@mipmap/u_5"/>
+                <ImageButton
+                    android:src="@mipmap/u_6"/>
+            </GridLayout>
+        </ScrollView>
+    </TableRow>
+
+</TableLayout>

@@ -64,8 +64,8 @@
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
                                       <entry key="cropped" value="true" />
-                                      <entry key="imageAsset" value="C:\ZavrsniRad\MOB_AUTO_DETEKCIJA\app\src\main\res\drawable\IkonePocetne\ikona_4_1.png" />
-                                      <entry key="outputName" value="akcije" />
+                                      <entry key="imageAsset" value="C:\ZavrsniRad\MOB_AUTO_DETEKCIJA\app\src\main\res\drawable\IkoneGreskeUBoji\31.png" />
+                                      <entry key="outputName" value="c_31" />
                                     </map>
                                   </option>
                                 </PersistentState>
