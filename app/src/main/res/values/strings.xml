@@ -6,4 +6,110 @@
     <string name="pronadi_servis">Pronađi servis</string>
     <string name="akcije">Akcije</string>
     <string name="detekcija_kvara_text">Molimo označite ikone prema signalizaciji na kontrolnoj ploči vašeg automobila.\nDodatno možete označiti i opisni kvar.</string>
+    <string name="OPISNI_KVAR">OPISNI KVAR</string>
+    <string name="pokreni_detekciju_kvara">POKRENI DETEKCIJU KVARA</string>
+
+    <string-array name="greske_poruka">
+        <item>"Greška u radu motora svi senzori vezani za rad motora, senzori ispuha"</item>
+        <item>"svijetli konstantno - greška grijača motora treperi - smetnja u regulaciji dizel motora"</item>
+        <item>"elektromehanički servo volan - smanjeni kapacitet / povremeno ne radi"</item>
+        <item>elektromehanički servo volan - ne radi / blokiran</item>
+        <item>greška u radu motora</item>
+        <item>"greška u radu motora / greška u regulaciji motora - benzinski motor / greška u radu ispuha"</item>
+        <item>filter čestica - dizel</item>
+        <item>kvar osvjetljenja / žarulja ne radi</item>
+        <item>uključeno svjetlo za maglu</item>
+        <item>niska razina tekućine za pranje stakla</item>
+        <item>razina ulja niska / provjeriti razinu ulja</item>
+        <item>smetnje u ABS (antiblokadni sustav) kočnica</item>
+        <item>"ne radi ili je isključen zračni jastuk / greška u zatezaču pojasa"</item>
+        <item>greška u zatezaču pojasa</item>
+        <item>servisni interval - redovan servis</item>
+        <item>"svijetli konstantno - ESP ne radi treperi - ESP vrši regulaciju (el. sus. stabilizacje)"</item>
+        <item>tlak ulja prenizak / nedostaje ulje</item>
+        <item>prazna baterija / smetnje u alternatoru / ne puni se baterija</item>
+        <item>"niska razina rashladne tekućine (antifriz) / previsoka temperatura rashl. tek (motora)"</item>
+        <item>zategnuta ručna kočnica (P) / nedostaje kočiona tekućina</item>
+        <item>kvar kočionog sustava</item>
+        <item>"svijetli konstantno - ESP ne radi treperi - ESP vrši regulaciju (el. sus. stabilizacje)"</item>
+        <item>otvorena vrata</item>
+        <item>otvoren prtljažni prostor</item>
+        <item>otvoren poklopac motora</item>
+        <item>niska razina goriva (obratiti pažnu na vrstu goriva)</item>
+        <item>niska temperatura, zimski uvjeti na cesti</item>
+        <item>greška u ispušnom sustavu</item>
+        <item>tempomat radi</item>
+        <item>uključeni grijači stakla ili ogledala</item>
+        <item>greška u kodu ključa ili baterija prazna</item>
+    </string-array>
+
+    <string-array name="greske_akcija">
+        <item>potražite sevisni centar</item>
+        <item>potražite sevisni centar</item>
+        <item>potražite sevisni centar</item>
+        <item>potražite sevisni centar hitno</item>
+        <item>potražite sevisni centar</item>
+        <item>potražite sevisni centar</item>
+        <item>ispušite auto ili potražite servisni centar</item>
+        <item>zamijenite žarulju ili potražite servisni centar</item>
+        <item>isključite ukoliko nema magle</item>
+        <item>dolijte tekućinu za stakla</item>
+        <item>doljte ulje ili potražite servisni centar</item>
+        <item>potražite sevisni centar hitno</item>
+        <item>potražite sevisni centar</item>
+        <item>potražite sevisni centar</item>
+        <item>potražite sevisni centar</item>
+        <item>potražite sevisni centar samo kod konstantnog svjetljenja</item>
+        <item>"ugasiti motor i  provjeriti razinu ulja, ne voziti dalje"</item>
+        <item>potražite sevisni centar hitno</item>
+        <item>"ugasiti i obavezno ohladiti motor i provjeriti razinu rashladne tekućine"</item>
+        <item>spustite ručnu kočnicu u vožnji / ugasiti motor i  provjeriti kočionu tekućinu</item>
+        <item>potražite sevisni centar hitno</item>
+        <item>potražite sevisni centar samo kod konstantnog svjetljenja</item>
+        <item>zatvorite vrata</item>
+        <item>zatvorite poklopac prtljažnika</item>
+        <item>zatvorite poklopac motora</item>
+        <item>ulijte gorivo</item>
+        <item>prilagodite vožnju skliskoj cesti</item>
+        <item>potražite sevisni centar hitno</item>
+        <item>isključite ukoliko niste na autocesti</item>
+        <item>isključite ako stakla ili ogeldala nisu zaleđena</item>
+        <item>potražite sevisni centar</item>
+    </string-array>
+
+    <string-array name="opisne_greske">
+        <item>Zvuk struganja kočnice kod kočenja</item>
+        <item>Zvuk struganja kod kočenja stalno</item>
+        <item>Šum u kotaču kod vožnje</item>
+        <item>Pucketanje u kotaču kod skretnja</item>
+        <item>Lupanje u ovjesu kod neravnina</item>
+        <item>Cviljnje pod poklopcom motora</item>
+        <item>Plavkasti dim iz ispuha</item>
+        <item>Crni dim iz ispuha</item>
+        <item>Dimi se ispod poklopca mtora</item>
+    </string-array>
+
+    <string-array name="opisne_greske_poruka">
+        <item>istrošene kočnice</item>
+        <item>Strano tjelo u sustavu kočnica</item>
+        <item>deformirane gume / preniski tlak u gumama / istrošen ležaj kotača</item>
+        <item>istrošen zglob poluosovine</item>
+        <item>Istrošeni zglobovi ovjesa / neispravni amortizeri vozila</item>
+        <item>Pogonski remen alternatora i/ili zatezač remena</item>
+        <item>Motor troši ulje</item>
+        <item>Prevelika količina goriva u motoru</item>
+        <item>"OPREZ. Ne dirati vrući motor, obavezno ugasiti i ohladiti motor"</item>
+    </string-array>
+
+    <string-array name="opisne_greske_akcija">
+        <item>potražite sevisni centar hitno</item>
+        <item>potražite sevisni centar hitno</item>
+        <item>potražite sevisni centar</item>
+        <item>potražite sevisni centar</item>
+        <item>potražite sevisni centar</item>
+        <item>potražite sevisni centar</item>
+        <item>potražite sevisni centar</item>
+        <item>potražite sevisni centar</item>
+        <item>potražite sevisni centar, ne voziti dalje</item>
+    </string-array>
 </resources>

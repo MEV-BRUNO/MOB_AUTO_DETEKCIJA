@@ -19,7 +19,8 @@
         <activity android:name=".detekcijaKvaraActivity" />
         <activity android:name=".ProvjeriSamActivity" />
         <activity android:name=".PronadiServisActivity" />
-        <activity android:name=".AkcijeActivity"></activity>
+        <activity android:name=".AkcijeActivity" />
+        <activity android:name=".RezultatAnalize"></activity>
     </application>
 
 </manifest>
